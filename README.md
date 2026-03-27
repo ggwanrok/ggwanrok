@@ -1,13 +1,9 @@
 # 안녕하세요! 👋
 
-I'm **GWANROK MOON**.
+**백엔드 개발을 기반으로 인프라까지 함께 이해하려는 개발자 문관록입니다.**
 
-**Backend developer with hands-on experience in Java/Spring and Python/FastAPI,  
-who also cares about deployment, operations, and infrastructure.**
-
-I enjoy building not just working features, but services that are reliable, maintainable, and actually usable.  
-Through projects involving **Spring Boot, FastAPI, MySQL, Qdrant, Docker, GitHub Actions, AWS, and Kubernetes**,  
-I have been growing into a developer who looks beyond implementation toward the full service lifecycle.
+Java/Spring Boot와 Python/FastAPI를 활용한 백엔드 개발에 익숙하며, Docker와 Kubernetes, CI/CD 환경을 경험하며 배포와 운영 관점까지 함께 넓혀왔습니다.
+관찰력이 뛰어나 새로운 기술과 환경을 빠르게 흡수할 수 있으며, 팀 활동에서도 구성원들의 성향과 협업 흐름을 빠르게 파악해 자연스럽게 호흡을 맞추며 함께 결과를 만들어가고 있습니다.
 
 ---
 
@@ -82,7 +78,7 @@ I have been growing into a developer who looks beyond implementation toward the 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![ABAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -103,7 +99,6 @@ I have been growing into a developer who looks beyond implementation toward the 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazonaws&logoColor=white)
 ![NHN Cloud](https://img.shields.io/badge/NHN%20Cloud-16C79A?style=flat-square&logoColor=white)
 
 ---
