@@ -2,7 +2,7 @@
 
 **백엔드 개발을 기반으로 인프라까지 함께 이해하려는 개발자 문관록입니다.**
 
-Java/Spring Boot와 Python/FastAPI를 활용한 백엔드 개발에 익숙하며, Docker와 Kubernetes, CI/CD 환경을 경험하며 배포와 운영 관점까지 함께 넓혀왔습니다.
+Java/Spring Boot와 Python/FastAPI를 활용한 백엔드 개발에 익숙하며, Docker와 Kubernetes를 경험하며 배포와 운영 관점까지 함께 넓혀왔습니다.
 관찰력이 뛰어나 새로운 기술과 환경을 빠르게 흡수할 수 있으며, 팀 활동에서도 구성원들의 성향과 협업 흐름을 빠르게 파악해 자연스럽게 호흡을 맞추며 함께 결과를 만들어가고 있습니다.
 
 ---
@@ -108,7 +108,7 @@ Java/Spring Boot와 Python/FastAPI를 활용한 백엔드 개발에 익숙하며
 ### LexGuard (2025.04 - 2025.11)
 **RAG 기반 AI 계약서 법률 리스크 분석 서비스**
 
-**Repo**: https://github.com/ggwanrok/lexguard_rag  
+**Repo**: [렉스가드](https://github.com/ggwanrok/lexguard_rag)
 
 [![LexGuard Demo Video](https://img.youtube.com/vi/a1vg1WrbpxE/maxresdefault.jpg)](https://youtu.be/a1vg1WrbpxE)
 
@@ -145,9 +145,9 @@ Java/Spring Boot와 Python/FastAPI를 활용한 백엔드 개발에 익숙하며
 ---
 
 ### 숭민청원 (2025.03 - 2025.06)
-**숭실대학교 청원과 행정 대응 자동화 서비스**
+**학생 의견을 청원과 행정 대응 흐름으로 연결한 자동화 서비스**
 
-**Repo**: https://github.com/SoongMinChungWon/SoongMin_spring_server
+**Repo**: [숭민청원](https://github.com/SoongMinChungWon/SoongMin_spring_server)
 
 [![숭민청원 Demo Video](https://img.youtube.com/vi/lQNtFkVswys/maxresdefault.jpg)](https://youtu.be/lQNtFkVswys)
 
@@ -162,7 +162,7 @@ Java/Spring Boot와 Python/FastAPI를 활용한 백엔드 개발에 익숙하며
 **기술 스택**
 - **Backend**: Java, Spring Boot
 - **AI**: OpenAI API
-- **MAIL**: Spring Mail (SMTP), Jakarta Mail (IMAPS)
+- **Mail**: Spring Mail (SMTP), Jakarta Mail (IMAPS)
 - **Data / Search**: MySQL, Qdrant
 - **Infra / DevOps**: Docker, Docker Compose, GitHub Actions, AWS EC2
 
