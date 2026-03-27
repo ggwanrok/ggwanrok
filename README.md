@@ -108,7 +108,7 @@ Java/Spring Boot와 Python/FastAPI를 활용한 백엔드 개발에 익숙하며
 ### LexGuard (2025.04 - 2025.11)
 **RAG 기반 AI 계약서 법률 리스크 분석 서비스**
 
-**Repo**: [렉스가드](https://github.com/ggwanrok/lexguard_rag)
+**Repo**: [렉스가드 깃허브](https://github.com/ggwanrok/lexguard_rag)
 
 [![LexGuard Demo Video](https://img.youtube.com/vi/a1vg1WrbpxE/maxresdefault.jpg)](https://youtu.be/a1vg1WrbpxE)
 
@@ -147,7 +147,7 @@ Java/Spring Boot와 Python/FastAPI를 활용한 백엔드 개발에 익숙하며
 ### 숭민청원 (2025.03 - 2025.06)
 **학생 의견을 청원과 행정 대응 흐름으로 연결한 자동화 서비스**
 
-**Repo**: [숭민청원](https://github.com/SoongMinChungWon/SoongMin_spring_server)
+**Repo**: [숭민청원 깃허브](https://github.com/SoongMinChungWon/SoongMin_spring_server)
 
 [![숭민청원 Demo Video](https://img.youtube.com/vi/lQNtFkVswys/maxresdefault.jpg)](https://youtu.be/lQNtFkVswys)
 
