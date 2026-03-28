@@ -20,7 +20,7 @@ Java/Spring Boot와 Python/FastAPI를 활용한 백엔드 개발에 익숙하며
 
 ## 🎓 Education
 
-- **Soongsil University** | 컴퓨터학부 | 2020.03 - 2026.08
+- **Soongsil University** | 컴퓨터학부 | 2020.03 - 2026.08 (졸업 예정)
 - Overall GPA: **3.91 / 4.5**
 - Major GPA: **4.25 / 4.5**
 
@@ -112,6 +112,9 @@ Java/Spring Boot와 Python/FastAPI를 활용한 백엔드 개발에 익숙하며
 
 [![LexGuard Demo Video](https://img.youtube.com/vi/a1vg1WrbpxE/maxresdefault.jpg)](https://youtu.be/a1vg1WrbpxE)
 
+**개발 배경**
+- 계약서는 전문 용어와 복잡한 조항으로 인해 비전문가가 리스크를 파악하기 어렵고, 변호사 검토는 시간·비용 부담이 큽니다. 특히 스타트업/중소기업은 상시 법무 검토 체계를 갖추기 어려워 위험 조항을 놓치기 쉽습니다. 렉스가드는 계약 체결 전 법적 위험을 사전 식별해, 빠르고 합리적인 비용의 1차 검토를 제공하는 것을 목표로 개발했습니다. 
+
 **주요 기능**
 - 계약서 업로드 및 AI 자동 분석
 - 조항별 리스크 분류 및 종합 평가 시각화
@@ -150,6 +153,9 @@ Java/Spring Boot와 Python/FastAPI를 활용한 백엔드 개발에 익숙하며
 **Repo**: [숭민청원 깃허브](https://github.com/SoongMinChungWon/SoongMin_spring_server)
 
 [![숭민청원 Demo Video](https://img.youtube.com/vi/lQNtFkVswys/maxresdefault.jpg)](https://youtu.be/lQNtFkVswys)
+
+**개발 배경**
+- 기존 개인 민원이나 비정형 커뮤니티 방식은 공감 수가 체계적으로 집계되지 않고, 동일 이슈가 여러 글로 분산되며, 감정적 논쟁·익명성으로 인한 소음과 책임 회피로 실질적 개선으로 이어지기 어렵다는 한계를 가져왔습니다. 이에 신뢰성과 효율성을 갖춘 플랫폼이 필요하다고 판단하여, 학생들의 생활 속 불편·개선 요구를 집단적으로 모으고, 공감이 확인된 사안만을 학교에 공식 전달하는 민주적 의사소통 창구를 구축하고자 했습니다.
 
 **주요 기능**
 - 재학생 인증 기반 로그인 및 자동 회원가입
