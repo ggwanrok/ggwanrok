@@ -110,6 +110,7 @@ Java/Spring Boot와 Python/FastAPI를 활용한 백엔드 개발에 익숙하며
 
 **Repo**: [렉스가드 깃허브](https://github.com/ggwanrok/lexguard_rag)
 
+**시연 영상**
 [![LexGuard Demo Video](https://img.youtube.com/vi/a1vg1WrbpxE/maxresdefault.jpg)](https://youtu.be/a1vg1WrbpxE)
 
 **개발 배경**
@@ -152,6 +153,7 @@ Java/Spring Boot와 Python/FastAPI를 활용한 백엔드 개발에 익숙하며
 
 **Repo**: [숭민청원 깃허브](https://github.com/SoongMinChungWon/SoongMin_spring_server)
 
+**시연영상**
 [![숭민청원 Demo Video](https://img.youtube.com/vi/lQNtFkVswys/maxresdefault.jpg)](https://youtu.be/lQNtFkVswys)
 
 **개발 배경**
