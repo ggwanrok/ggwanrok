@@ -1,8 +1,11 @@
 # 안녕하세요! 👋
 
-**백엔드 개발을 기반으로 인프라까지 함께 이해하려는 개발자 문관록입니다.**
+**백엔드 개발을 기반으로 AI와 인프라까지 함께 이해하려는 개발자 문관록입니다.**
 
 Java/Spring Boot와 Python/FastAPI를 활용한 백엔드 개발에 익숙하며, Docker와 Kubernetes를 경험하며 배포와 운영 관점까지 함께 넓혀왔습니다.
+
+현재 **SKALA 4기 AI 서비스 개발 트랙**에 참여하며 생성형 AI, 데이터 엔지니어링, 클라우드 네이티브 환경에서의 AI 서비스 개발 역량을 확장하고 있습니다.
+
 관찰력이 뛰어나 새로운 기술과 환경을 빠르게 흡수할 수 있으며, 팀 활동에서도 구성원들의 성향과 협업 흐름을 빠르게 파악해 자연스럽게 호흡을 맞추며 함께 결과를 만들어가고 있습니다.
 
 ---
@@ -42,11 +45,12 @@ Java/Spring Boot와 Python/FastAPI를 활용한 백엔드 개발에 익숙하며
 - 🗃️ **SQLD** Issued by 한국데이터산업진흥원
 - 💡 **TOPCIT Level 3** Issued by 정보통신기획평가원
 - ☁️ **SAP Certified Associate - Back-End Developer - ABAP Cloud** Issued by SAP | Expires: 2025.12.22
-
+- 🤖 **인공지능 Fundamental 디지털 배지** Issued by 한국공학교육인증원 | Soongsil University
 ---
 
 ## 🚀 Activities
 
+- **SKALA(SK AI Leader Academy) 4기 AI 서비스 개발 트랙** *(2026.07.14 - Current)*
 - **숭실튜터링 36기** | 선형대수 튜터 *(2025.03.31 - 2025.06.06)*
 - **Co-op 클라우드트랙(AI-PaaS기초)** 교과목 조교 *(2025.12.22 - 2026.01.14)*
 - **숭실대학교 컴퓨터학부 문제해결 소모임 SCCC** *(2025 - Current)*
