@@ -23,7 +23,7 @@ Java/Spring Boot와 Python/FastAPI를 활용한 백엔드 개발에 익숙하며
 
 ## 🎓 Education
 
-- **Soongsil University** | 컴퓨터학부 | 2020.03 - 2026.08 (졸업 예정)
+- **Soongsil University** | 컴퓨터학부 | 2020.03 - 2026.08
 - Overall GPA: **3.91 / 4.5**
 - Major GPA: **4.25 / 4.5**
 
