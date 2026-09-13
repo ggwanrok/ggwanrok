@@ -2,7 +2,7 @@
 
 **백엔드 개발을 기반으로 AI와 인프라까지 함께 이해하려는 개발자 문관록입니다.**
 
-Java/Spring Boot와 Python/FastAPI를 활용한 백엔드 개발에 익숙하며, Docker와 Kubernetes를 경험하며 배포와 운영 관점까지 함께 넓혀왔습니다.
+Java/Spring Boot를 활용한 백엔드 개발에 익숙하며, Docker와 Kubernetes를 경험하며 배포와 운영 관점까지 함께 넓혀왔습니다.
 
 현재 **SKALA 4기 AI 서비스 개발 트랙**에 참여하며 생성형 AI, 데이터 엔지니어링, 클라우드 네이티브 환경에서의 AI 서비스 개발 역량을 확장하고 있습니다.
 
